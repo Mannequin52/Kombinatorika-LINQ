@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\KombinatorikaLINQ\KombinatorikaLINQ\bin\Debug\KombinatorikaLINQ.exe.config
+C:\Users\ucenik\Documents\KombinatorikaLINQ\KombinatorikaLINQ\bin\Debug\KombinatorikaLINQ.exe
+C:\Users\ucenik\Documents\KombinatorikaLINQ\KombinatorikaLINQ\bin\Debug\KombinatorikaLINQ.pdb
+C:\Users\ucenik\Documents\KombinatorikaLINQ\KombinatorikaLINQ\obj\Debug\KombinatorikaLINQ.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\KombinatorikaLINQ\KombinatorikaLINQ\obj\Debug\KombinatorikaLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\KombinatorikaLINQ\KombinatorikaLINQ\obj\Debug\KombinatorikaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\KombinatorikaLINQ\KombinatorikaLINQ\obj\Debug\KombinatorikaLINQ.exe
+C:\Users\ucenik\Documents\KombinatorikaLINQ\KombinatorikaLINQ\obj\Debug\KombinatorikaLINQ.pdb
